@@ -30,7 +30,7 @@
 * [**第3回**：5/26PM](https://peatix.com/event/1488396/view)  
 * **第4回**：6月開催予定  
 
-        [TOPへ](#top)  
+[TOPへ](#top)  
 
 ---
 ###### 2
@@ -55,7 +55,7 @@
 * [**第3回**：5/31PM](https://peatix.com/event/1488990/view)  
 * **第4回**：6月開催予定  
 
-        [TOPへ](#top)  
+[TOPへ](#top)  
 
 ---
 ###### 3
@@ -75,10 +75,10 @@
 * 以上は1日の日程で完了します。なお、ご参加いただいたみなさまは、受講後もSlackを利用してオンラインで質問し、アドバイスを受けることができます。  
 
 * [**第1回**：5/20PM](https://peatix.com/event/1488926/view)  
-* [**第2回**：5/24PM]https://peatix.com/event/1488974/view)  
+* [**第2回**：5/24PM](https://peatix.com/event/1488974/view)  
 * [**第3回**：5/27夜](https://peatix.com/event/1488977/view)  
 * **第4回**：6月開催予定  
 
-        [TOPへ](#top)  
+[TOPへ](#top)  
 
 ---
