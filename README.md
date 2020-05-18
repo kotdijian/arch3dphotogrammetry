@@ -30,7 +30,8 @@
 * [**第3回**：5/26PM](https://peatix.com/event/1488396/view)  
 * **第4回**：6月開催予定  
 
-<div style="text-align: right;">[[TOPへ](#top)]</div>  
+        [TOPへ](#top)  
+
 ---
 ###### 2
 ## 初級編  
@@ -54,7 +55,7 @@
 * [**第3回**：5/31PM](https://peatix.com/event/1488990/view)  
 * **第4回**：6月開催予定  
 
-<div style="text-align: right;">[TOPへ](#top)</div>  
+        [TOPへ](#top)  
 
 ---
 ###### 3
@@ -78,6 +79,6 @@
 * [**第3回**：5/27夜](https://peatix.com/event/1488977/view)  
 * **第4回**：6月開催予定  
 
-<div style="text-align: right;">[TOPへ](#top)</div>  
+        [TOPへ](#top)  
 
 ---
