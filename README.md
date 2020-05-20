@@ -15,6 +15,7 @@
 |入門編|5/18|[5/23](https://peatix.com/event/1488395/view)|[5/26](https://peatix.com/event/1488396/view)|[6/6](https://peatix.com/event/1495783/view)|未定|  
 |初級編|5/23|[5/27](https://peatix.com/event/1488872/view)|[5/31](https://peatix.com/event/1488990/view)|[6/13](https://peatix.com/event/1496145/view)|未定|  
 |初級編2|5/20|[5/24](https://peatix.com/event/1488974/view)|[5/27](https://peatix.com/event/1488977/view)|[6/3](https://peatix.com/event/1496153/view)|[6/20](https://peatix.com/event/1496161/view)|  
+
 **※リンクなしは終了または満席**  
 
 ---
