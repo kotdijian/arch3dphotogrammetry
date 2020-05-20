@@ -9,7 +9,8 @@
     * [初級編2](#3)  
 
 * 予定表  
-|クラス|第1回|第2回|第3回|第4回|第5回|  
+
+| クラス | 第1回 | 第2回 | 第3回 | 第4回 | 第5回 |  
 |:--|:--:|:--:|:--:|:--:|:--:|  
 |入門編|5/18|[5/23](https://peatix.com/event/1488395/view)|[5/26](https://peatix.com/event/1488396/view)|[6/6](https://peatix.com/event/1495783/view)|未定|  
 |初級編|5/23|[5/27](https://peatix.com/event/1488872/view)|[5/31](https://peatix.com/event/1488990/view)|[6/13](https://peatix.com/event/1496145/view)|未定|  
