@@ -28,7 +28,7 @@
 * ~~[第1回：5/18PM](https://peatix.com/event/1488392/view)~~（終了）  
 * [**第2回**：5/23PM](https://peatix.com/event/1488395/view)  
 * [**第3回**：5/26PM](https://peatix.com/event/1488396/view)  
-* **第4回**：6月開催予定  
+* [**第4回**：6/6PM](https://peatix.com/event/1495783/view)  
 
 [TOPへ](#top)  
 
@@ -75,10 +75,11 @@
     * 内容：展開図の作成、断面・輪郭線の生成、モデルの変形・移動・回転　（スケール・座標付与の方法についても触れます）
 * 以上は1日の日程で完了します。なお、ご参加いただいたみなさまは、受講後もSlackを利用してオンラインで質問し、アドバイスを受けることができます。  
 
-* [**第1回**：5/20PM](https://peatix.com/event/1488926/view)  
+* ~~[**第1回**：5/20PM](https://peatix.com/event/1488926/view)~~(終了)  
 * [**第2回**：5/24PM](https://peatix.com/event/1488974/view)  
 * [**第3回**：5/27夜](https://peatix.com/event/1488977/view)  
-* **第4回**：6月開催予定  
+* [**第4回**：6/3PM](https://peatix.com/event/1496153/view)  
+* [**第5回**：6/20AM](https://peatix.com/event/1496161/view)  
 
 [TOPへ](#top)  
 
