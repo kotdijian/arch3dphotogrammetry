@@ -12,7 +12,7 @@
 |:--|:--:|:--:|:--:|:--:|:--:|  
 |[**入門編**](#1)|5/18|5/23|[5/26](https://peatix.com/event/1488396/view)|[6/6](https://peatix.com/event/1495783/view)|未定|  
 |[**初級編**](#2)|5/23|[5/27](https://peatix.com/event/1488872/view)|[5/31](https://peatix.com/event/1488990/view)|[6/13](https://peatix.com/event/1496145/view)|未定|  
-|[**初級編2**](#3)|5/20|[5/24](https://peatix.com/event/1488974/view)|[5/27](https://peatix.com/event/1488977/view)|[6/3](https://peatix.com/event/1496153/view)|[6/20](https://peatix.com/event/1496161/view)|  
+|[**初級編2**](#3)|5/20|5/24|[5/27](https://peatix.com/event/1488977/view)|[6/3](https://peatix.com/event/1496153/view)|[6/20](https://peatix.com/event/1496161/view)|  
 
 **※リンクなしは終了または満席**  
 
@@ -92,7 +92,7 @@
 * 以上は1日の日程で完了します。なお、ご参加いただいたみなさまは、受講後もSlackを利用してオンラインで質問し、アドバイスを受けることができます。  
 
 * ~~[**第1回**：5/20PM](https://peatix.com/event/1488926/view)~~(終了)  
-* [**第2回**：5/24PM](https://peatix.com/event/1488974/view)  
+* ~~[**第2回**：5/24PM](https://peatix.com/event/1488974/view)~~(終了)  
 * [**第3回**：5/27夜](https://peatix.com/event/1488977/view)  
 * [**第4回**：6/3PM](https://peatix.com/event/1496153/view)  
 * [**第5回**：6/20AM](https://peatix.com/event/1496161/view)  
